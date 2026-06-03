@@ -42,3 +42,9 @@ uvicorn main:app --reload
 Abrir:
 
 http://127.0.0.1:8000/docs
+
+Links para acesso: 
+
+https://solicitacoes-api.onrender.com
+https://solicitacoes-api.onrender.com/docs#/
+https://github.com/GabbrielPens/solicitacoes-api/tree/main
